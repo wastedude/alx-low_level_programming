@@ -5,3 +5,4 @@ int main()
   return(0)
 }
 -Wall gcc
+gcc 4-puts.c
